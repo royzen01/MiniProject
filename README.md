@@ -4,7 +4,7 @@
 
 Hayk | Roy
 -----------|----------
-- [ ] 10 tasks | [ ] 10 tasks
+<ul><li>- [x] 10 Tasks </li><li> | <ul><li>- [x] 10 Tasks </li><li>
 	|
 - [ ] Answer first section | - [ ] Answer second section (workflow)
 
