@@ -5,4 +5,4 @@
 - [ ] Answer first section
 - [ ] Answer second section (workflow)
 
-:grinning: :smile: :heart_eyes: :stuck_out_tongue: :cowboy_hat_face
+:grinning: :smile: :heart_eyes: :stuck_out_tongue: :cowboy_hat_face:
