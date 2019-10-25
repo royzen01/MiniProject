@@ -8,5 +8,6 @@
 
 
 
-http://www.github.com/
+http://www.github.com/ - automatic!
+
 :grinning: :smile: :heart_eyes: :stuck_out_tongue: :cowboy_hat_face:
