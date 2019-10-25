@@ -2,7 +2,7 @@
 
 ### Tasks to complete:
 
-#### Members
+#### Members |
 ------------ | -------------
 Roy Sanchez | Hayk
 
