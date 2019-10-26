@@ -8,7 +8,7 @@ Hayk         | Samvelyan
 ### Tasks to complete:
 - [ ] Roy - 10 tasks
 - [ ] Hayk - 10 tasks
-- [ ] Answer first secation
+- [ ] Answer first section
 - [ ] Answer second section (workflow)
 
 ---
@@ -22,6 +22,13 @@ Hayk         | Samvelyan
   development of new features and fixes to be developed without interferring with the master branch.
   Once the features or fixes are ready to go they can be merged back into the master branch which
   promotes seamless collaboration.</dd>
+  
+  <dt>Repository</dt>
+  <dd>A repository, also reffered to as "repo", is a directory that houses one of your projects.
+  Here is where you will store your code, text files, images and other data. A repo can live 
+  localy on your computer or it can be on a remote host like GitHub</dd>
+  
+  <dd> <b> git init </b> initializes a repository </dd>
 
 </dl>
 
