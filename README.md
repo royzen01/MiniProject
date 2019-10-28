@@ -79,7 +79,13 @@ Hayk         | Samvelyan
   <dt>Push</dt>
   <dd>Git push is how you send commits from your local repository over to the remote repo.</dd>
 
-  <dd> <b> git push origin branchname </b> Pushes your commits to the remote repository and named branch</dd>
+  <dd> <b> git push origin branchname </b> pushes your commits to the remote repository and named branch</dd>
+  
+  <dt>Pull</dt>
+  <dd>Git pull incorporates the changes from a remote repo onto your designated local repo. Git pull 
+  works as a combination of git fetch and git merge</dd>
+
+  <dd> <b> git pull remote_repo </b> downloads and immediately applies the latest changes of the target repo </dd>
   
 </dl>
 
