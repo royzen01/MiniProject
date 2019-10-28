@@ -13,7 +13,7 @@ Hayk         | Samvelyan
 
 ---
 
-### Section 2 defitions
+### Section 2 definitions
 
 <dl>
   <dt>GitFlow</dt>
