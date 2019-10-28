@@ -48,6 +48,13 @@ Hayk         | Samvelyan
   <dd>A fork is a copy of a repository. Forking is useful for collaborating with others because
   they can make changes to your project without affecting it directly.</dd>
   
+  <dt>Branch</dt>
+  <dd>Git allows one to branch-off from the main project in order to work on a feature or fix without getting
+  in the way of the main project. It allows one to make changes without disrupting the master branch 
+  and and thus avoiding conflict issues.</dd>
+  
+  
+
   
 </dl>
 
