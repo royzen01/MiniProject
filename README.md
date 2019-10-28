@@ -6,7 +6,7 @@ Roy          | Sanchez
 Hayk         | Samvelyan
 ---
 ### Tasks to complete:
-- [ ] Roy - 10 tasks
+- [x] Roy - 10 tasks
 - [ ] Hayk - 10 tasks
 - [ ] Answer first section
 - [ ] Answer second section (workflow)
@@ -38,13 +38,17 @@ Hayk         | Samvelyan
   
   <dd> <b> git init </b> initializes a repository </dd>
   
-  <dl>
   <dt>Clone</dt>
-  <dd>Git clone is a command used to copy an existing repository onto a target repository. One way
+  <dd>Git clone is a command used to copy an existing repository onto a target local repository. One way
   this can be helpful is if you find a remote repository and wish to copy parts of it into your own.</dd>
   
   <dd> <b> git clone repository_url  </b> copies the targeted repository into your current one </dd>
-
+  
+  <dt>Fork</dt>
+  <dd>A fork is a copy of a repository. Forking is useful for collaborating with others because
+  they can make changes to your project without affecting it directly.</dd>
+  
+  
 </dl>
 
 
