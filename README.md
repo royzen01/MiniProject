@@ -59,7 +59,15 @@ Hayk         | Samvelyan
   
   <dd> <b> git commit -m ' ' </b> Lets you commit your currently staged files. the -m flag lets you set a 
   comment between the single quotes </dd>
+  
+  <dt>Merge</dt>
+  <dd>Git merge is applied in two different scenarios, but works the same in both. First would be if you are
+  working on a seperate branch, git merge branchname will allow you to merge the named branch to the master.
+  The other situation in which merge is used is when performing a git fetch. Git fetch copies down the changes
+  added to the remote repository onto your local one, and git merge then applies those changes to your files.</dd>
 
+  <dd> <b> git merge branchname </b> merges the named branch to the master branch</dd>
+  <dd> <b> git merge </b> while in your local repo applies the changes grabbed after a git fetch</dd>
   
 </dl>
 
