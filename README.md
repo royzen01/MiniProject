@@ -34,7 +34,7 @@ Hayk         | Samvelyan
   <dt>Repository</dt>
   <dd>A repository, also reffered to as "repo", is a directory that houses one of your projects.
   Here is where you will store your code, text files, images and other data. A repo can live 
-  localy on your computer or it can be on a remote host like GitHub</dd>
+  localy on your computer or it can be on a remote host like GitHub.</dd>
   
   <dd> <b> git init </b> initializes a repository </dd>
   
@@ -55,7 +55,7 @@ Hayk         | Samvelyan
   
   <dt>Commit</dt>
   <dd>This command captures a snapshot of the current changes made to the project. This indicates that your
-  changes are working and you are ready to apply them to the project</dd>
+  changes are working and you are ready to apply them to the project.</dd>
   
   <dd> <b> git commit -m ' ' </b> Lets you commit your currently staged files. the -m flag lets you set a 
   comment between the single quotes </dd>
@@ -75,6 +75,11 @@ Hayk         | Samvelyan
 
   <dd> <b> git checkout branchname </b> will put you in the targeted branch if it exists</dd>
   <dd> <b> git commit_id </b> will copy a specific commit</dd>
+  
+  <dt>Push</dt>
+  <dd>Git push is how you send commits from your local repository over to the remote repo.</dd>
+
+  <dd> <b> git push origin branchname </b> Pushes your commits to the remote repository and named branch</dd>
   
 </dl>
 
