@@ -69,6 +69,13 @@ Hayk         | Samvelyan
   <dd> <b> git merge branchname </b> merges the named branch to the master branch</dd>
   <dd> <b> git merge </b> while in your local repo applies the changes grabbed after a git fetch</dd>
   
+  <dt>Checkout</dt>
+  <dd>The git checkout has many uses. One of its main uses is to switch between the branch you currently want
+  to work on. Another popular property of it is that it has the ability to restore files back to a specific commit.</dd>
+
+  <dd> <b> git checkout branchname </b> will put you in the targeted branch if it exists</dd>
+  <dd> <b> git commit_id </b> will copy a specific commit</dd>
+  
 </dl>
 
 
