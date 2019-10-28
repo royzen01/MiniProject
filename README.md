@@ -85,7 +85,14 @@ Hayk         | Samvelyan
   <dd>Git pull incorporates the changes from a remote repo onto your designated local repo. Git pull 
   works as a combination of git fetch and git merge</dd>
 
-  <dd> <b> git pull remote_repo </b> downloads and immediately applies the latest changes of the target repo </dd>
+  <dd> <b> git pull remote_repo_name </b> downloads and immediately applies the latest changes of the target repo </dd>
+  
+  <dt>Remote</dt>
+  <dd>Git remote is a command used to interact with remote repositories. It can establish and remove connections</dd>
+
+  <dd> <b> git remote add <name> <url> </b> sets up a connection to a remote repository and give it a name </dd>
+  <dd> <b> git remote rm <name> </b> removes the connection to the named repository </dd>
+  <dd> <b> git remote show </b> will give details on the configuration of the remote repository </dd>
   
 </dl>
 
