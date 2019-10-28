@@ -53,7 +53,12 @@ Hayk         | Samvelyan
   in the way of the main project. It allows one to make changes without disrupting the master branch 
   and and thus avoiding conflict issues.</dd>
   
+  <dt>Commit</dt>
+  <dd>This command captures a snapshot of the current changes made to the project. This indicates that your
+  changes are working and you are ready to apply them to the project</dd>
   
+  <dd> <b> git commit -m ' ' </b> Lets you commit your currently staged files. the -m flag lets you set a 
+  comment between the single quotes </dd>
 
   
 </dl>
