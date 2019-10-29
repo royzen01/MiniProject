@@ -9,7 +9,7 @@ Hayk         | Samvelyan
 - [x] Roy - 10 tasks
 - [ ] Hayk - 10 tasks
 - [ ] Answer first section
-- [ ] Answer second section (workflow)
+- [x] Answer second section (workflow)
 
 ---
 
