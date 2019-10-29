@@ -100,6 +100,13 @@ Hayk         | Samvelyan
 
   <dd> <b> git status </b> prints information on your current directory</dd>
   
+  <dt>Master Branch</dt>
+  <dd>The master branch is your first and usually last branch of your project. It is your main branch where everything
+  will come together ultimately. Feature branches are created with the intention of ultimately being merged backed into
+  the master branch.</dd>
+
+  <dd> <b> git checkout master </b> will put you in the master branch if you have switched out</dd>
+  
 </dl>
 
 
