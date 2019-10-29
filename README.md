@@ -94,6 +94,12 @@ Hayk         | Samvelyan
   <dd> <b> git remote rm <name> </b> removes the connection to the named repository </dd>
   <dd> <b> git remote show </b> will give details on the configuration of the remote repository </dd>
   
+  <dt>Status</dt>
+  <dd>Git status gives you information of your current repository. It lets you know if changes have been made
+  and if any have been staged for commit.</dd>
+
+  <dd> <b> git status </b> prints information on your current directory</dd>
+  
 </dl>
 
 
