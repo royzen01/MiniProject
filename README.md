@@ -36,6 +36,12 @@ Hayk         | Samvelyan
 
   <dd> <b> pwd </b> prints your current path starting with the root </dd>
   
+   <dt>mv</dt>
+  <dd>mv lets you move or rename files within the file system</dd>
+
+  <dd> <b> mv [filename] [directory] </b> moves selected file to desired directory </dd>
+  <dd> <b> mv [filename] [newfilename] </b> renames desired file </dd>
+  
 </dl>  
 
 ### Section 2 definitions
