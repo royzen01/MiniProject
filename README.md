@@ -31,6 +31,11 @@ Hayk         | Samvelyan
 
   <dd> <b> cp filename </b> copies selected file </dd>
   
+  <dt>pwd</dt>
+  <dd>pwd stands for Print Working Directory which displays the full address of the current directory you're in. It helps you find where you are in the system</dd>
+
+  <dd> <b> pwd </b> prints your current path starting with the root </dd>
+  
 </dl>  
 
 ### Section 2 definitions
