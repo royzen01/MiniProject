@@ -26,6 +26,11 @@ Hayk         | Samvelyan
 
   <dd> <b> mkdir foldername </b> makes a particular folder name </dd>
   
+  <dt>cp</dt>
+  <dd>cp copies files and directories</dd>
+
+  <dd> <b> cp filename </b> copies selected file </dd>
+  
 </dl>  
 
 ### Section 2 definitions
