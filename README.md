@@ -20,6 +20,13 @@ Hayk         | Samvelyan
   <dd>cd is a Terminal/Command Line command used to switch between folders in a directory</dd>
 
   <dd> <b> cd foldername </b> goes to a particular folder name </dd>
+  
+  <dt>mkdir</dt>
+  <dd>mkdir makes a new folder in your designated directory</dd>
+
+  <dd> <b> mkdir foldername </b> makes a particular folder name </dd>
+  
+</dl>  
 
 ### Section 2 definitions
 
