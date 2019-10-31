@@ -48,6 +48,11 @@ Hayk         | Samvelyan
   <dd> <b> rm [filename] </b> removes selected file name </dd>
   <dd> <b> rm -d [directory] </b> removes an empty directory </dd>
   
+  <dt>history</dt>
+  <dd>history allows to you to review all previously inputted commands from the start of the current session</dd>
+
+  <dd> <b> history </b> displays a list of all previous commands </dd>
+  
 </dl>  
 
 ### Section 2 definitions
