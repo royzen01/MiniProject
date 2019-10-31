@@ -27,7 +27,7 @@ Hayk         | Samvelyan
   <dd> <b> mkdir foldername </b> makes a particular folder name </dd>
   
   <dt>cp</dt>
-  <dd>cp copies files and directories</dd>
+  <dd>cp copies files and directories in the file system</dd>
 
   <dd> <b> cp filename </b> copies selected file </dd>
   
@@ -41,6 +41,12 @@ Hayk         | Samvelyan
 
   <dd> <b> mv [filename] [directory] </b> moves selected file to desired directory </dd>
   <dd> <b> mv [filename] [newfilename] </b> renames desired file </dd>
+  
+  <dt>rm</dt>
+  <dd>rm removes files and directories in the file system</dd>
+
+  <dd> <b> rm [filename] </b> removes selected file name </dd>
+  <dd> <b> rm -d [directory] </b> removes an empty directory </dd>
   
 </dl>  
 
