@@ -60,7 +60,7 @@
   <dd><b>[up arrow] </b>would bring up the last executed command line </dd>
 
 
-  <dd>Sources:</dd>
+#### Sources:
   
   [ExplainShell](https://explainshell.com)
 	
