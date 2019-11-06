@@ -69,6 +69,11 @@ Hayk         | Samvelyan
 
   <dd><b>cd ~/De[tab]</b> would auto-complete the desired directory name for the user's Desktop</dd>
 
+  <dt>Using up and down arrow for history </dt>
+  <dd>Using arrow keys allows you to quickly bring up previous command line inputs without having to retype them from scratch. </dd>
+
+  <dd><b>[up arrow] </b>would bring up the last executed command line </dd>
+
 </dl>  
 
 ### Section 2 definitions
