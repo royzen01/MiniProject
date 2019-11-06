@@ -58,7 +58,10 @@ Hayk         | Samvelyan
 
   <dd> <b> cd ~ </b> brings you back to the home directory of your user account </dd>
 
-  
+  <dt>File paths in Linux </dt>
+  <dd>Files paths is a represenation of file locations on a computer. They start with the root directory and go down through nested directories all the way to the current location, separated by /" </dd>
+
+  <dd><b>Users/[username]/Desktop</b> is your Desktop's file path</dd>
 </dl>  
 
 ### Section 2 definitions
