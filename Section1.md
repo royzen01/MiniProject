@@ -59,4 +59,11 @@
 
   <dd><b>[up arrow] </b>would bring up the last executed command line </dd>
 
+
+  <dd>Sources:</dd>
+  <dd><b>ExplainShell </b></dd> https://explainshell.com
+	
+  <dd><b>Understanding file paths and how to use them in Linux </b></dd> https://opensource.com/article/19/8/understanding-file-paths-linux
+
+
 </dl>  
