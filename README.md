@@ -52,6 +52,12 @@ Hayk         | Samvelyan
   <dd>history allows to you to review all previously inputted commands from the start of the current session</dd>
 
   <dd> <b> history </b> displays a list of all previous commands </dd>
+
+  <dt>Home directory and ~ </dt>
+  <dd>The home directory is a folder given to a user to store all of their personal files in a Unix-based OS. The ~ command is helpful in returning to the root of that directory</dd>
+
+  <dd> <b> cd ~ </b> brings you back to the home directory of your user account </dd>
+
   
 </dl>  
 
