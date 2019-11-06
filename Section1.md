@@ -61,9 +61,9 @@
 
 
   <dd>Sources:</dd>
-  <dd><b>[ExplainShell] (https://explainshell.com) </b></dd>
+  **[ExplainShell](https://explainshell.com) **
 	
-  <dd><b>[Understanding file paths and how to use them in Linux] (https://opensource.com/article/19/8/understanding-file-paths-linux) </b></dd> 
+  **[Understanding file paths and how to use them in Linux](https://opensource.com/article/19/8/understanding-file-paths-linux) **
 
 
 </dl>  
