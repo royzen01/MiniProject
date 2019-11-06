@@ -62,6 +62,13 @@ Hayk         | Samvelyan
   <dd>Files paths is a represenation of file locations on a computer. They start with the root (the highest level) and go down through nested directories all the way to the current location, separated by a forward slash '/' " </dd>
 
   <dd><b>Users/[username]/Desktop</b> is a Desktop's file path on a MacOS</dd>
+
+
+  <dt>Using the tab key to complete file paths </dt>
+  <dd>The tab key allows you to autocomplete file paths and file names with minimal character input and also checks for the presence of the desired file name and/or directory </dd>
+
+  <dd><b>cd ~/De[tab]</b> would auto-complete the desired directory name for the user's Desktop</dd>
+
 </dl>  
 
 ### Section 2 definitions
