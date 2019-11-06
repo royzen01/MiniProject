@@ -14,9 +14,9 @@ Hayk         | Samvelyan
 
 ---
 
-[Click here for Section 1 of definitions](./Section1.txt)
+[Click here for Section 1 of definitions](./Section1.md)
 
-[Click here for Section 2 of definitions](./Section2.txt)
+[Click here for Section 2 of definitions](./Section2.md)
 
 http://www.github.com/ 
 
