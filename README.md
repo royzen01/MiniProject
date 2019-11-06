@@ -7,8 +7,8 @@ Hayk         | Samvelyan
 ---
 ### Tasks to complete:
 - [x] Roy - 10 tasks
-- [ ] Hayk - 10 tasks
-- [ ] Answer first section
+- [x] Hayk - 10 tasks
+- [x] Answer first section
 - [x] Answer second section (workflow)
 
 ---
