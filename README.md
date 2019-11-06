@@ -18,8 +18,6 @@ Hayk         | Samvelyan
 
 [Click here for Section 2 of definitions](./Section2.md)
 
-http://www.github.com/ 
-
 ![GitHub Logo](/images/giticon.png)
 
 > IS 117 - Fall '19 - Keith Williams
